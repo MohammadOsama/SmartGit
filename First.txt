@@ -1,1 +1,3 @@
 First Line to use Pull Fucntion By Smart Git
+
+Second Line To Push By Smart Git
